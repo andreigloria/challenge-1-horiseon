@@ -10,13 +10,7 @@ N/A
 
 ## Usage
 
-'''md
-![screenshot one of website deployment](./starter/assets/images/screenshot-web-1.png)
-'''
-
-'''md
-![screenshot two of website deploument](./starter/assets/images/screenshot-web-2.png)
-'''
+N/A
 
 ## Credits
 
