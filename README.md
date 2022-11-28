@@ -10,9 +10,7 @@ N/A
 
 ## Usage
 
-![screenshot one of website deployment](./starter/assets/images/screenshot-web-1.png)
-
-![screenshot two of website deploument](./starter/assets/images/screenshot-web-2.png)
+N/A
 
 ## Credits
 
